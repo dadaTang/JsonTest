@@ -47,7 +47,7 @@ public class GoodsInfoDao {
         if (mSdCardExist) {
 
 
-            mGoodsPath = Environment.getExternalStorageDirectory().toString() + "/stemEink/META-INFO";
+            mGoodsPath = Environment.getExternalStorageDirectory().toString() + "/test/META-INFO";
             File dataInfo = new File(mGoodsPath + "/DataInfo.json");
             if (dataInfo.exists()) {
                 //获取SD卡文件内容字符串
@@ -72,9 +72,9 @@ public class GoodsInfoDao {
     public void insertModelToDb(GoodsInfo goodsInfo) {
 
         //获取helper对象
-        EInkDatabaseHelper eInkDatabaseHelper = new EInkDatabaseHelper(context);
+        TestDatabaseHelper testDatabaseHelper = new TestDatabaseHelper(context);
         //获取数据库操作对象(写)
-        db = eInkDatabaseHelper.getWritableDatabase();
+        db = testDatabaseHelper.getWritableDatabase();
         //开始事务
         db.beginTransaction();
         try {
