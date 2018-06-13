@@ -36,7 +36,7 @@ public class GoodsInfoDao {
     private GoodsInfo goodsInfo;
     //商品编号
     private Integer mGoodsId;
-    private EInkDatabaseHelper eInkDatabaseHelper;
+    private TestDatabaseHelper testDatabaseHelper;
     //初始化数据库
     private SQLiteDatabase db;
     //SD卡判断
@@ -58,7 +58,7 @@ public class GoodsInfoDao {
     }
 
     public GoodsInfoDao(Context context) {
-        eInkDatabaseHelper = new EInkDatabaseHelper(context);
+        testDatabaseHelper = new TestDatabaseHelper(context);
     }
 
 
@@ -75,7 +75,7 @@ public class GoodsInfoDao {
              * 需要对下载文件的区分和清理
              * */
             //获取下载路径
-            mGoodsPath = Constants.FILE_ROOT_FOLDER + "/stemEink/META-INFO";
+            mGoodsPath = Constants.FILE_ROOT_FOLDER + "/test/META-INFO";
             //获取下载文件
             File dataInfo = new File(mGoodsPath + "/DataInfo.json");
             //判断文件是否存在
@@ -134,7 +134,7 @@ public class GoodsInfoDao {
      */
     private synchronized void insertGoodsInfoToDb(GoodsInfo goodsInfo) {
         //获取数据库操作对象(写)
-        db = eInkDatabaseHelper.getWritableDatabase();
+        db = testDatabaseHelper.getWritableDatabase();
         //开始事务
         db.beginTransaction();
         try {
@@ -176,7 +176,7 @@ public class GoodsInfoDao {
      */
     public synchronized boolean existGoodsId(Integer goodsId) {
         boolean flag = false;
-        db = eInkDatabaseHelper.getReadableDatabase();
+        db = testDatabaseHelper.getReadableDatabase();
         Cursor cursor = db.query(Constants.DB.DOWNLOAD_GOODS_INFO_TABLE, new String[]{"goodsId"},
                 "goodsId=?", new String[]{goodsId.toString()},
                 null, null, null);
@@ -197,7 +197,7 @@ public class GoodsInfoDao {
         //TeachingPkgInfo teachingPkgInfo = new Gson().fromJson(json, new TypeToken<TeachingPkgInfo>() {
         // }.getType());
         //获取数据库操作对象(写)
-        db = eInkDatabaseHelper.getWritableDatabase();
+        db = testDatabaseHelper.getWritableDatabase();
         //开始事务
         db.beginTransaction();
         try {
@@ -252,7 +252,7 @@ public class GoodsInfoDao {
         //解析json对象
         TeachingPkgBookInfo teachingPkgBookInfo = mGson.fromJson(json, TeachingPkgBookInfo.class);
         //获取数据库操作对象(写)
-        db = eInkDatabaseHelper.getWritableDatabase();
+        db = testDatabaseHelper.getWritableDatabase();
         //开始事务
         db.beginTransaction();
         try {
@@ -294,7 +294,7 @@ public class GoodsInfoDao {
     public synchronized void insertChapterListToDb(String json) {
         mGson = new Gson();
         ChapterList chapterList = mGson.fromJson(json, ChapterList.class);
-        db = eInkDatabaseHelper.getWritableDatabase();
+        db = testDatabaseHelper.getWritableDatabase();
         //开始事务
         db.beginTransaction();
         try {
@@ -336,7 +336,7 @@ public class GoodsInfoDao {
         }.getType());
 
         //获取数据库操作对象(写)
-        db = eInkDatabaseHelper.getWritableDatabase();
+        db = testDatabaseHelper.getWritableDatabase();
         //开始事务
         db.beginTransaction();
         try {
@@ -372,7 +372,7 @@ public class GoodsInfoDao {
         //获取questionInfo字符串
         String questionInfo = mGson.toJson(questionList.getQuestionInfo());
         //获取数据库操作对象(写)
-        db = eInkDatabaseHelper.getWritableDatabase();
+        db = testDatabaseHelper.getWritableDatabase();
         //开始事务
         db.beginTransaction();
         try {
