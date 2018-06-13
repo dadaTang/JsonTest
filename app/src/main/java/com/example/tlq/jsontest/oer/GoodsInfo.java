@@ -10,11 +10,11 @@ public class GoodsInfo<T> {
     private String collectCount;
     private String contentId;
     private T contentInfo;
-    private String contentType;
+    private Integer contentType;
     private String createrId;
     private String createrName;
     private String createrType;
-    private String goodsId;
+    private Integer goodsId;
     private String intro;
     private String name;
     private String oerResourceId;
@@ -56,11 +56,11 @@ public class GoodsInfo<T> {
         this.contentInfo = contentInfo;
     }
 
-    public String getContentType() {
+    public Integer getContentType() {
         return contentType;
     }
 
-    public void setContentType(String contentType) {
+    public void setContentType(Integer contentType) {
         this.contentType = contentType;
     }
 
@@ -88,11 +88,11 @@ public class GoodsInfo<T> {
         this.createrType = createrType;
     }
 
-    public String getGoodsId() {
+    public Integer getGoodsId() {
         return goodsId;
     }
 
-    public void setGoodsId(String goodsId) {
+    public void setGoodsId(Integer goodsId) {
         this.goodsId = goodsId;
     }
 

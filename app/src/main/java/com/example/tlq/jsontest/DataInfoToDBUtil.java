@@ -17,7 +17,7 @@ public class DataInfoToDBUtil {
      * 插入数据库
      */
     public void insertToDB() {
-        goodsInfoDao.addObjectToList();
+        goodsInfoDao.addObjectToDb();
     }
 
 

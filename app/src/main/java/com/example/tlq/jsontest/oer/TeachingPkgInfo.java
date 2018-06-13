@@ -27,7 +27,7 @@ public class TeachingPkgInfo {
     private String publishing;
     private Integer adviseDuration;
     private Integer difficulty;
-    private List<QuestionInfo> questionList = new ArrayList<>();
+    private List<QuestionList> questionList;
 
     public Integer getPkgId() {
         return pkgId;
@@ -189,11 +189,11 @@ public class TeachingPkgInfo {
         this.difficulty = difficulty;
     }
 
-    public List<QuestionInfo> getQuestionList() {
+    public List<QuestionList> getQuestionList() {
         return questionList;
     }
 
-    public void setQuestionList(List<QuestionInfo> questionList) {
+    public void setQuestionList(List<QuestionList> questionList) {
         this.questionList = questionList;
     }
 }

@@ -25,6 +25,9 @@ public class SourceFile
     private String md5sum;
     
     private String mimetype;
+
+    private Integer goodsId;
+
     
     /**
      * 该资源在离线包内的路径，相对于根目录的路径

@@ -1,1011 +1,2632 @@
 {
 	"buyCount":0,
 	"collectCount":0,
-	"contentId":276,
+	"contentId":1,
 	"contentInfo":{
-		"adviseDuration":60,
-		"difficulty":1,
-		"grade":"一年级",
-		"name":"张丹的教辅03",
-		"pkgId":276,
-		"publishing":"人教版",
-		"questionList":[
+		"author":"张三",
+		"chapterList":[
 			{
-				"questionId":2356,
-				"questionInfo":{
-					"analysis":{
-						"text":"<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://114.55.108.78:8001/group1/M00/00/33/cjdsTlsDw6OAIs3kAACuLC_IMXw032.jpg\"/>"
-					},
-					"answer":"D",
-					"id":"2356",
-					"options":[
-						{
-							"optionContent":{
-								"text":"A<br/>"
+				"pkgBookId":1,
+				"pkgChapterId":1,
+				"pkgChapterName":"章节一",
+				"questionList":[
+					{
+						"questionId":3132,
+						"questionInfo":{
+							"analysis":{
+								"text":"根据分式方程的定义即可判断 。<img src=\"http://112.74.167.122:8090/group1/M00/00/25/rBIAAVq8o3SAL1UaAAAKoG8ra0k714.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的一元一次方程。"
 							},
-							"optionID":"A"
-						},
-						{
-							"optionContent":{
-								"text":"B"
+							"answer":"F",
+							"id":"3132",
+							"question":{
+								"text":"判断：<img src=\"http://112.74.167.122:8090/group1/M00/00/25/rBIAAVq8o3SAZqQlAAANilINGw0020.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的分式方程.&nbsp;"
 							},
-							"optionID":"B"
-						},
-						{
-							"optionContent":{
-								"text":"C"
-							},
-							"optionID":"C"
-						},
-						{
-							"optionContent":{
-								"text":"D"
-							},
-							"optionID":"D"
-						}
-					],
-					"question":{
-						"text":"带图片的题目"
-					},
-					"type":1,
-					"videoAnalysis":{
-						"text":"http://114.55.108.78:8001/group1/M00/00/2E/cjdsTlk2CRGASc5KAN_Z8UcNQvg347.mp4"
-					}
-				},
-				"questionTitle":"带图片的题目",
-				"questionType":10401,
-				"subjectId":10001,
-				"subjectName":"语文"
-			},
-			{
-				"questionId":2355,
-				"questionInfo":{
-					"analysis":{
-						"text":"《观潮》是南宋文人周密的经典作品，节选自《武林旧事》第三卷。本文通过描写作者耳闻目睹钱塘江大潮潮来前、潮来时、潮头过后的景象，以及观潮的盛况，将自然美、人情美巧妙地交织在一起，用十分精练的笔墨，分四段描绘出海潮的壮观景象，水军演习的动人情景，弄潮健儿的英姿飒爽和观潮人群的惊叹不已，使读者身历其境。"
-					},
-					"answer":{
-						"text":"南宋文人周密"
-					},
-					"id":"2355",
-					"question":{
-						"text":"《观潮》的作者是谁？"
-					},
-					"videoAnalysis":{
-						"text":"http://114.55.108.78:8001/group1/M00/00/2E/cjdsTlk2CRGASc5KAN_Z8UcNQvg347.mp4"
-					}
-				},
-				"questionTitle":"《观潮》的作者是谁？",
-				"questionType":10405,
-				"subjectId":10001,
-				"subjectName":"语文"
-			},
-			{
-				"questionId":2354,
-				"questionInfo":{
-					"analysis":{
-						"text":"正确答案：选项B"
-					},
-					"answer":"B",
-					"id":"2354",
-					"options":[
-						{
-							"optionContent":{
-								"text":"选项A"
-							},
-							"optionID":"A"
-						},
-						{
-							"optionContent":{
-								"text":"选项B"
-							},
-							"optionID":"B"
-						},
-						{
-							"optionContent":{
-								"text":"选项C"
-							},
-							"optionID":"C"
-						},
-						{
-							"optionContent":{
-								"text":"选项D"
-							},
-							"optionID":"D"
-						}
-					],
-					"question":{
-						"text":"单选题"
-					},
-					"type":1,
-					"videoAnalysis":{
-						"text":"http://114.55.108.78:8001/group1/M00/00/2E/cjdsTlk2CRGASc5KAN_Z8UcNQvg347.mp4"
-					}
-				},
-				"questionTitle":"单选题",
-				"questionType":10401,
-				"subjectId":10001,
-				"subjectName":"语文"
-			},
-			{
-				"questionId":2369,
-				"questionInfo":{
-					"analysis":{
-						"text":"根据分式方程的定义即可判断。<img src=\"http://114.55.108.78:8001/group1/M00/00/32/cjdsTlrDH06AAPkkAAAKPp96FqU102.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的一元一次方程。"
-					},
-					"answer":"F",
-					"id":"2369",
-					"question":{
-						"text":"判断：<img src=\"http://114.55.108.78:8001/group1/M00/00/30/cjdsTlnbMOyAS31WAAAM7Ix9wzg116.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的分式方程.&nbsp;"
-					},
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"判断：(图片)是关于y的分式方程.&nbsp;",
-				"questionType":10403,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2370,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":"T",
-					"id":"2370",
-					"question":{
-						"text":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面"
-					},
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面",
-				"questionType":10403,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2371,
-				"questionInfo":{
-					"analysis":{
-						"text":"上面看，是上面2个正方形，左下角1个正方形，故选B。"
-					},
-					"answer":"B",
-					"id":"2371",
-					"options":[
-						{
-							"optionContent":{
-								"text":"<img src=\"http://114.55.108.78:8001/group1/M00/00/24/cjdsTlgRkJaAZ87wAAAEfCS0Zl4231.png\" style=\"vertical-align:middle;height:80%\"/>"
-							},
-							"optionID":"A"
-						},
-						{
-							"optionContent":{
-								"text":"<img src=\"http://114.55.108.78:8001/group1/M00/00/24/cjdsTlgRkJeAQuj0AAAEYr26WXI948.png\" style=\"vertical-align:middle;height:80%\"/>"
-							},
-							"optionID":"B"
-						},
-						{
-							"optionContent":{
-								"text":"<img src=\"http://114.55.108.78:8001/group1/M00/00/24/cjdsTlgRkJeAal-FAAAEN2c4zBs447.png\" style=\"vertical-align:middle;height:80%\"/>"
-							},
-							"optionID":"C"
-						}
-					],
-					"question":{
-						"text":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://114.55.108.78:8001/group1/M00/00/24/cjdsTlgRkJaAWUF7AAAK_7JF6Fk513.png\"/>"
-					},
-					"type":1,
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。(图片)",
-				"questionType":10401,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2372,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":"A,D",
-					"id":"2372",
-					"options":[
-						{
-							"optionContent":{
-								"text":"单点测速仪测的是汽车的瞬时速率"
-							},
-							"optionID":"A"
-						},
-						{
-							"optionContent":{
-								"text":"单点测速仪测的是汽车的平均速率"
-							},
-							"optionID":"B"
-						},
-						{
-							"optionContent":{
-								"text":"区间测速测的是汽车的瞬时速率"
-							},
-							"optionID":"C"
-						},
-						{
-							"optionContent":{
-								"text":"区间测速测的是汽车的平均速率"
-							},
-							"optionID":"D"
-						}
-					],
-					"question":{
-						"text":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。"
-					},
-					"type":2,
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。",
-				"questionType":10402,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2373,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":[
-						{
-							"text":"<img src=\"http://114.55.108.78:8001/group1/M00/00/32/cjdsTlrDH1CAFNNRAAAFidFobiw653.jpg\" style=\"vertical-align:middle;height:80%\"/> 【或者】 <img src=\"http://114.55.108.78:8001/group1/M00/00/32/cjdsTlrDH1GAe3TwAAAFw2NRuV4822.jpg\" style=\"vertical-align:middle;height:80%\"/>"
-						}
-					],
-					"id":"2373",
-					"question":{
-						"text":"与<img src=\"http://114.55.108.78:8001/group1/M00/00/32/cjdsTlrDH1CAQbpGAAAF1AHonfA858.jpg\" style=\"vertical-align:middle;height:80%\"/>相等的分母小于10是(___)"
-					},
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"与(图片)相等的分母小于10是(___)",
-				"questionType":10404,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2374,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":{
-						"text":"①协同运输中的离子梯度动力；②ATP驱动的泵通过水解ATP获得能量；③光驱动的泵利用光能运输物质，见于细菌。"
-					},
-					"id":"2374",
-					"question":{
-						"text":"主动运输的能量来源有哪些途径？"
-					},
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"主动运输的能量来源有哪些途径？",
-				"questionType":10405,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2375,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":[
-						"B",
-						"C",
-						"D",
-						"A",
-						"B",
-						"C",
-						"B",
-						"A",
-						"C",
-						"D"
-					],
-					"id":"2375",
-					"optionMap":{
-						"1":[
-							{
-								"optionContent":{
-									"text":"found"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"helped"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"saw"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"Made"
-								},
-								"optionID":"D"
+							"videoAnalysis":{
+								
 							}
-						],
-						"2":[
-							{
-								"optionContent":{
-									"text":"Since"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"Before"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"When"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"Until"
-								},
-								"optionID":"D"
-							}
-						],
-						"3":[
-							{
-								"optionContent":{
-									"text":"picture-books"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"Stories"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"Clothes"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"Videos"
-								},
-								"optionID":"D"
-							}
-						],
-						"4":[
-							{
-								"optionContent":{
-									"text":"Often"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"Almost"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"Nearly"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"Never"
-								},
-								"optionID":"D"
-							}
-						],
-						"5":[
-							{
-								"optionContent":{
-									"text":"All"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"Both"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"Either"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"Neither"
-								},
-								"optionID":"D"
-							}
-						],
-						"6":[
-							{
-								"optionContent":{
-									"text":"Careful"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"Busy"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"Long"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"Lucky"
-								},
-								"optionID":"D"
-							}
-						],
-						"7":[
-							{
-								"optionContent":{
-									"text":"That"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"Why"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"Where"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"How"
-								},
-								"optionID":"D"
-							}
-						],
-						"8":[
-							{
-								"optionContent":{
-									"text":"To"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"by"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"from"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"With"
-								},
-								"optionID":"D"
-							}
-						],
-						"9":[
-							{
-								"optionContent":{
-									"text":"Sometime"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"some times"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"some time"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"Sometimes"
-								},
-								"optionID":"D"
-							}
-						],
-						"10":[
-							{
-								"optionContent":{
-									"text":"laughed at"
-								},
-								"optionID":"A"
-							},
-							{
-								"optionContent":{
-									"text":"found out"
-								},
-								"optionID":"B"
-							},
-							{
-								"optionContent":{
-									"text":"got back"
-								},
-								"optionID":"C"
-							},
-							{
-								"optionContent":{
-									"text":"gave up"
-								},
-								"optionID":"D"
-							}
-						]
-					},
-					"question":{
-						"text":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.<br />When they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.<br />They (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.<br />Tom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \""
-					},
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.<br />When they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.<br />They (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.<br />Tom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \"",
-				"questionType":10406,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2376,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":[
-						"F",
-						"C",
-						"E",
-						"B",
-						"A"
-					],
-					"id":"2376",
-					"options":[
-						{
-							"optionContent":{
-								"text":"Get involved in student activities"
-							},
-							"optionID":"A"
 						},
-						{
-							"optionContent":{
-								"text":"Your voice is actually super important"
+						"questionTitle":"判断：(图片)是关于y的分式方程.&nbsp;",
+						"questionType":10403,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3133,
+						"questionInfo":{
+							"analysis":{
+								"text":""
 							},
-							"optionID":"B"
+							"answer":"T",
+							"id":"3133",
+							"question":{
+								"text":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面"
+							},
+							"videoAnalysis":{
+								
+							}
 						},
-						{
-							"optionContent":{
-								"text":"There is a significant increase of opportunities"
+						"questionTitle":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面",
+						"questionType":10403,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3134,
+						"questionInfo":{
+							"analysis":{
+								"text":"上面看，是上面2个正方形，左下角1个正方形，故选B。"
 							},
-							"optionID":"C"
-						},
-						{
-							"optionContent":{
-								"text":"Stay in active communication with your friends"
-							},
-							"optionID":"D"
-						},
-						{
-							"optionContent":{
-								"text":"Get smart about the people who you spend your time with"
-							},
-							"optionID":"E"
-						},
-						{
-							"optionContent":{
-								"text":"Your major does not matter as much in your first of college"
-							},
-							"optionID":"F"
-						}
-					],
-					"question":{
-						"text":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:<br />(__1__)<br />Nobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.<br />(__2__)<br />In college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.<br />(__3__)<br />College is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.<br />(__4__)<br />As a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.<br />(__5__)<br />At my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization."
-					},
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:<br />(__1__)<br />Nobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.<br />(__2__)<br />In college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.<br />(__3__)<br />College is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.<br />(__4__)<br />As a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.<br />(__5__)<br />At my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization.",
-				"questionType":10407,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2377,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":{
-						"text":"<img src=\"http://114.55.108.78:8001/group1/M00/00/2C/cjdsTlis-9-AOwwlAADRKImxYE4955.png\" style=\"vertical-align:middle;height:80%\"/>"
-					},
-					"drawingImages":{
-						"text":"${#6|4867#}$"
-					},
-					"id":"2377",
-					"question":{
-						"text":"用笔画线代替导线将图中实物连接完整。要求：<br />1.​&nbsp;电压表测量灯泡两端的电压。<br />2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大<br />3.​&nbsp;导线不能交叉<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://114.55.108.78:8001/group1/M00/00/2C/cjdsTlis-9-AUVyCAACpHkOEtcU093.png\"/>"
-					},
-					"videoAnalysis":{
-						
-					}
-				},
-				"questionTitle":"用笔画线代替导线将图中实物连接完整。要求：<br />1.​&nbsp;电压表测量灯泡两端的电压。<br />2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大<br />3.​&nbsp;导线不能交叉",
-				"questionType":10408,
-				"subjectId":10002,
-				"subjectName":"数学"
-			},
-			{
-				"questionId":2378,
-				"questionInfo":{
-					"analysis":{
-						"text":""
-					},
-					"answer":[
-						"C",
-						"D",
-						"C",
-						"B",
-						"D"
-					],
-					"id":"2378",
-					"question":{
-						"text":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.<br />　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’."
-					},
-					"subQuestions":[
-						{
+							"answer":"B",
+							"id":"3134",
 							"options":[
 								{
 									"optionContent":{
-										"text":"believes both of the stories<br />　　"
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COAO3HEAAAEfCS0Zl4613.png\" style=\"vertical-align:middle;height:80%\"/>"
 									},
 									"optionID":"A"
 								},
 								{
 									"optionContent":{
-										"text":"doesn’t believe a word of the stories<br />　　"
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/03/rBIAAVgS-w6AKLviAAAEYr26WXI906.png\" style=\"vertical-align:middle;height:80%\"/>"
 									},
 									"optionID":"B"
 								},
 								{
 									"optionContent":{
-										"text":"is not sure whether the stories are true<br />"
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COANIRjAAAEN2c4zBs476.png\" style=\"vertical-align:middle;height:80%\"/>"
 									},
 									"optionID":"C"
-								},
-								{
-									"optionContent":{
-										"text":"is telling the stories just for fun"
-									},
-									"optionID":"D"
 								}
 							],
 							"question":{
-								"text":"The author<br />　　"
+								"text":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COANTbuAAAK_7JF6Fk051.png\"/>"
 							},
-							"type":0,
+							"type":1,
 							"videoAnalysis":{
 								
 							}
 						},
-						{
+						"questionTitle":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。(图片)",
+						"questionType":10401,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3135,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":"A,D",
+							"id":"3135",
 							"options":[
 								{
 									"optionContent":{
-										"text":"couldn’t draw up any documents at all<br />　　"
+										"text":"单点测速仪测的是汽车的瞬时速率"
 									},
 									"optionID":"A"
 								},
 								{
 									"optionContent":{
-										"text":"didn’t like to read important papers by himself<br />　　"
+										"text":"单点测速仪测的是汽车的平均速率"
 									},
 									"optionID":"B"
 								},
 								{
 									"optionContent":{
-										"text":"often had his assistants sign documents for him<br />　　"
+										"text":"区间测速测的是汽车的瞬时速率"
 									},
 									"optionID":"C"
 								},
 								{
 									"optionContent":{
-										"text":"wasn’t good at reading，writing or spelling"
+										"text":"区间测速测的是汽车的平均速率"
 									},
 									"optionID":"D"
 								}
 							],
 							"question":{
-								"text":"According to the passage，President Jackson<br />　　"
+								"text":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。"
 							},
-							"type":0,
+							"type":2,
 							"videoAnalysis":{
 								
 							}
 						},
-						{
+						"questionTitle":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。",
+						"questionType":10402,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3136,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								{
+									"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAVWa1AAAFtUcASIc790.jpg\" style=\"vertical-align:middle;height:80%\"/> 【或者】 <img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAX5KoAAAGACZzVxc685.jpg\" style=\"vertical-align:middle;height:80%\"/>"
+								}
+							],
+							"id":"3136",
+							"question":{
+								"text":"与<img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAGpxGAAAF6X6j-fo907.jpg\" style=\"vertical-align:middle;height:80%\"/>相等的分母小于10是(___)"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"与(图片)相等的分母小于10是(___)",
+						"questionType":10404,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3137,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":{
+								"text":"①协同运输中的离子梯度动力；②ATP驱动的泵通过水解ATP获得能量；③光驱动的泵利用光能运输物质，见于细菌。"
+							},
+							"id":"3137",
+							"question":{
+								"text":"主动运输的能量来源有哪些途径？"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"主动运输的能量来源有哪些途径？",
+						"questionType":10405,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3138,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"B",
+								"C",
+								"D",
+								"A",
+								"B",
+								"C",
+								"B",
+								"A",
+								"C",
+								"D"
+							],
+							"id":"3138",
+							"optionMap":{
+								"3":[
+									{
+										"optionContent":{
+											"text":"picture-books"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Stories"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Clothes"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Videos"
+										},
+										"optionID":"D"
+									}
+								],
+								"2":[
+									{
+										"optionContent":{
+											"text":"Since"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Before"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"When"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Until"
+										},
+										"optionID":"D"
+									}
+								],
+								"10":[
+									{
+										"optionContent":{
+											"text":"laughed at"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"found out"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"got back"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"gave up"
+										},
+										"optionID":"D"
+									}
+								],
+								"1":[
+									{
+										"optionContent":{
+											"text":"found"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"helped"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"saw"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Made"
+										},
+										"optionID":"D"
+									}
+								],
+								"7":[
+									{
+										"optionContent":{
+											"text":"That"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Why"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Where"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"How"
+										},
+										"optionID":"D"
+									}
+								],
+								"6":[
+									{
+										"optionContent":{
+											"text":"Careful"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Busy"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Long"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Lucky"
+										},
+										"optionID":"D"
+									}
+								],
+								"5":[
+									{
+										"optionContent":{
+											"text":"All"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Both"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Either"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Neither"
+										},
+										"optionID":"D"
+									}
+								],
+								"4":[
+									{
+										"optionContent":{
+											"text":"Often"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Almost"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Nearly"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Never"
+										},
+										"optionID":"D"
+									}
+								],
+								"9":[
+									{
+										"optionContent":{
+											"text":"Sometime"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"some times"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"some time"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Sometimes"
+										},
+										"optionID":"D"
+									}
+								],
+								"8":[
+									{
+										"optionContent":{
+											"text":"To"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"by"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"from"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"With"
+										},
+										"optionID":"D"
+									}
+								]
+							},
+							"question":{
+								"text":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.<br/>When they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.<br/>They (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.<br/>Tom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \""
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.\nWhen they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.\nThey (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.\nTom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \"",
+						"questionType":10406,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3139,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"F",
+								"C",
+								"E",
+								"B",
+								"A"
+							],
+							"id":"3139",
 							"options":[
 								{
 									"optionContent":{
-										"text":"was approved of by President Jackson<br />　　"
+										"text":"Get involved in student activities"
 									},
 									"optionID":"A"
 								},
 								{
 									"optionContent":{
-										"text":"was the title of some Official documents<br />　　"
+										"text":"Your voice is actually super important"
 									},
 									"optionID":"B"
 								},
 								{
 									"optionContent":{
-										"text":"was first used by President Jackson<br />　　"
+										"text":"There is a significant increase of opportunities"
 									},
 									"optionID":"C"
 								},
 								{
 									"optionContent":{
-										"text":"was an old way to spell ‘all correct’"
+										"text":"Stay in active communication with your friends"
 									},
 									"optionID":"D"
+								},
+								{
+									"optionContent":{
+										"text":"Get smart about the people who you spend your time with"
+									},
+									"optionID":"E"
+								},
+								{
+									"optionContent":{
+										"text":"Your major does not matter as much in your first of college"
+									},
+									"optionID":"F"
 								}
 							],
 							"question":{
-								"text":"According to the first story, the term ‘OK’<br />　　"
+								"text":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:<br/>(__1__)<br/>Nobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.<br/>(__2__)<br/>In college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.<br/>(__3__)<br/>College is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.<br/>(__4__)<br/>As a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.<br/>(__5__)<br/>At my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization."
 							},
-							"type":0,
 							"videoAnalysis":{
 								
 							}
 						},
-						{
+						"questionTitle":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:\n(__1__)\nNobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.\n(__2__)\nIn college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.\n(__3__)\nCollege is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.\n(__4__)\nAs a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.\n(__5__)\nAt my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization.",
+						"questionType":10407,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3140,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":{
+								"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/0D/rBIAAViT5ImAEqh5AADRKImxYE4654.png\" style=\"vertical-align:middle;height:80%\"/>"
+							},
+							"drawingImages":{
+								"text":"${#6|8491#}$"
+							},
+							"id":"3140",
+							"question":{
+								"text":"用笔画线代替导线将图中实物连接完整。要求：<br/>1.​&nbsp;电压表测量灯泡两端的电压。<br/>2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大<br/>3.​&nbsp;导线不能交叉<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://112.74.167.122:8090/group1/M00/00/0D/rBIAAViT5ImAP3eIAACpHkOEtcU729.png\"/>"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"用笔画线代替导线将图中实物连接完整。要求：\n1.​&nbsp;电压表测量灯泡两端的电压。\n2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大\n3.​&nbsp;导线不能交叉",
+						"questionType":10408,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3141,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"C",
+								"D",
+								"C",
+								"B",
+								"D"
+							],
+							"id":"3141",
+							"question":{
+								"text":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.<br/>　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’."
+							},
+							"subQuestions":[
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"believes both of the stories\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"doesn’t believe a word of the stories\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"is not sure whether the stories are true\n"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"is telling the stories just for fun"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"The author\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"couldn’t draw up any documents at all\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"didn’t like to read important papers by himself\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"often had his assistants sign documents for him\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"wasn’t good at reading，writing or spelling"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the passage，President Jackson\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"was approved of by President Jackson\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"was the title of some Official documents\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"was first used by President Jackson\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"was an old way to spell ‘all correct’"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the first story, the term ‘OK’\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"was the short way to say 'old Kinderhook Club’\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"meant the place where President Van Buren was born\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"was the name of Van Buren’s club\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"was used to call Van Buren’s supporters in the election"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the second story，the term ‘OK’\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"by Van Buren\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"in a presidential election\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"to organize the Old Kinderhook Club\n"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"by the members of the ‘Old Kinderhook Club’"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the second story. the term ‘OK’ was first used\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								}
+							],
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.\n　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’.",
+						"questionType":10409,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3142,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"21",
+								"28",
+								"45",
+								"81",
+								"8",
+								"16",
+								"32",
+								"3",
+								"333",
+								"1.5",
+								"10",
+								"15",
+								"42",
+								"1888",
+								"100",
+								"11",
+								"18",
+								"36",
+								"14",
+								"55"
+							],
+							"id":"3142",
+							"question":{
+								"text":"\\(3 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(9 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(64 \\div 8=\\)(___)\\(\\quad\\)<br/>\\(32 \\div2 =\\)(___)\\(\\quad\\)<br/>\\(128\\div4 =\\)(___)\\(\\quad\\)<br/>\\(9\\div =3\\)(___)\\(\\quad\\)<br/>\\(999\\div =3\\)(___)\\(\\quad\\)<br/>\\(3\\div2 =\\)(___)\\(\\quad\\)<br/>\\(3+7=\\)(___)\\(\\quad\\)<br/>\\(12+3=\\)(___)\\(\\quad\\)<br/>\\(19+23=\\)(___)\\(\\quad\\)<br/>\\(1000+888=\\)(___)\\(\\quad\\)<br/>\\(99+1=\\)(___)\\(\\quad\\)<br/>\\(88-77=\\)(___)\\(\\quad\\)<br/>\\(25-7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(2 \\times7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 11=\\)(___)\\(\\quad\\)"
+							},
+							"questionList":[],
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"\\(3 \\times 7=\\)(___)\\(\\quad\\)\n\\(4 \\times 7=\\)(___)\\(\\quad\\)\n\\(5 \\times 9=\\)(___)\\(\\quad\\)\n\\(9 \\times 9=\\)(___)\\(\\quad\\)\n\\(64 \\div 8=\\)(___)\\(\\quad\\)\n\\(32 \\div2 =\\)(___)\\(\\quad\\)\n\\(128\\div4 =\\)(___)\\(\\quad\\)\n\\(9\\div =3\\)(___)\\(\\quad\\)\n\\(999\\div =3\\)(___)\\(\\quad\\)\n\\(3\\div2 =\\)(___)\\(\\quad\\)\n\\(3+7=\\)(___)\\(\\quad\\)\n\\(12+3=\\)(___)\\(\\quad\\)\n\\(19+23=\\)(___)\\(\\quad\\)\n\\(1000+888=\\)(___)\\(\\quad\\)\n\\(99+1=\\)(___)\\(\\quad\\)\n\\(88-77=\\)(___)\\(\\quad\\)\n\\(25-7=\\)(___)\\(\\quad\\)\n\\(4 \\times 9=\\)(___)\\(\\quad\\)\n\\(2 \\times7=\\)(___)\\(\\quad\\)\n\\(5 \\times 11=\\)(___)\\(\\quad\\)",
+						"questionType":10410,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3143,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":"B",
+							"id":"3143",
 							"options":[
 								{
 									"optionContent":{
-										"text":"was the short way to say 'old Kinderhook Club’<br />　　"
+										"text":"丁香花纤小文弱，清香幽雅。古代诗人以此立意，写出不少古今传颂的佳作，丁香成了古代诗词中人们<br/><span class=\"mark\">耳濡目染</span>的意象之一。"
 									},
 									"optionID":"A"
 								},
 								{
 									"optionContent":{
-										"text":"meant the place where President Van Buren was born<br />　　"
+										"text":"鲁迅对于请愿的事，一向就<br/><span class=\"mark\">不以为然</span>。他认为在三&middot;一八惨案中遇难的爱国群众，不过供无恶意的闲人以饭后的谈资，或者给有恶意的闲人作“留言”的种子，此外神的意义很寥寥。"
 									},
 									"optionID":"B"
 								},
 								{
 									"optionContent":{
-										"text":"was the name of Van Buren’s club<br />　　"
+										"text":"入夜，月色溶溶，水天相接，我们或坐在树下<br/><span class=\"mark\">谈笑自若</span>，或坐在船上扣弦高歌，或立于小石桥上对月凝思。"
 									},
 									"optionID":"C"
 								},
 								{
 									"optionContent":{
-										"text":"was used to call Van Buren’s supporters in the election"
+										"text":"1926年3月18日，北京人名为了反对帝国主义侵犯我国主权，在天安门前集会抗议，会后到执政府前请愿。段祺瑞竟命令卫兵向请愿群众开枪，打死打伤二百余人，制造了<br/><span class=\"mark\">耸人听闻</span>的三&middot;一八惨案。"
 									},
 									"optionID":"D"
 								}
 							],
 							"question":{
-								"text":"According to the second story，the term ‘OK’<br />　　"
+								"text":"下列各句中，加点的成语使用正确的一项是"
 							},
-							"type":0,
+							"type":1,
 							"videoAnalysis":{
 								
 							}
 						},
-						{
-							"options":[
-								{
-									"optionContent":{
-										"text":"by Van Buren<br />　　"
-									},
-									"optionID":"A"
-								},
-								{
-									"optionContent":{
-										"text":"in a presidential election<br />　　"
-									},
-									"optionID":"B"
-								},
-								{
-									"optionContent":{
-										"text":"to organize the Old Kinderhook Club<br />"
-									},
-									"optionID":"C"
-								},
-								{
-									"optionContent":{
-										"text":"by the members of the ‘Old Kinderhook Club’"
-									},
-									"optionID":"D"
-								}
-							],
-							"question":{
-								"text":"According to the second story. the term ‘OK’ was first used<br />　　"
-							},
-							"type":0,
-							"videoAnalysis":{
-								
-							}
-						}
-					],
-					"videoAnalysis":{
-						
+						"questionTitle":"下列各句中，加点的成语使用正确的一项是",
+						"questionType":10401,
+						"subjectId":10001,
+						"subjectName":"语文"
 					}
-				},
-				"questionTitle":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.<br />　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’.",
-				"questionType":10409,
-				"subjectId":10002,
-				"subjectName":"数学"
+				]
 			},
 			{
-				"questionId":2451,
-				"questionInfo":{
-					"analysis":{
-						"text":""
+				"pkgBookId":1,
+				"pkgChapterId":2,
+				"pkgChapterName":"章节二",
+				"questionList":[
+					{
+						"questionId":3144,
+						"questionInfo":{
+							"analysis":{
+								"text":"根据分式方程的定义即可判断 。<img src=\"http://112.74.167.122:8090/group1/M00/00/25/rBIAAVq8o3SAL1UaAAAKoG8ra0k714.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的一元一次方程。"
+							},
+							"answer":"F",
+							"id":"3144",
+							"question":{
+								"text":"判断：<img src=\"http://112.74.167.122:8090/group1/M00/00/25/rBIAAVq8o3SAZqQlAAANilINGw0020.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的分式方程.&nbsp;"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"判断：(图片)是关于y的分式方程.&nbsp;",
+						"questionType":10403,
+						"subjectId":10001,
+						"subjectName":"语文"
 					},
-					"answer":[
-						"21",
-						"28",
-						"45",
-						"81",
-						"8",
-						"16",
-						"32",
-						"3",
-						"333",
-						"1.5",
-						"10",
-						"15",
-						"42",
-						"1888",
-						"100",
-						"11",
-						"18",
-						"36",
-						"14",
-						"55"
-					],
-					"id":"2451",
-					"question":{
-						"text":"\\(3 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(9 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(64 \\div 8=\\)(___)\\(\\quad\\)<br/>\\(32 \\div2 =\\)(___)\\(\\quad\\)<br/>\\(128\\div4 =\\)(___)\\(\\quad\\)<br/>\\(9\\div =3\\)(___)\\(\\quad\\)<br/>\\(999\\div =3\\)(___)\\(\\quad\\)<br/>\\(3\\div2 =\\)(___)\\(\\quad\\)<br/>\\(3+7=\\)(___)\\(\\quad\\)<br/>\\(12+3=\\)(___)\\(\\quad\\)<br/>\\(19+23=\\)(___)\\(\\quad\\)<br/>\\(1000+888=\\)(___)\\(\\quad\\)<br/>\\(99+1=\\)(___)\\(\\quad\\)<br/>\\(88-77=\\)(___)\\(\\quad\\)<br/>\\(25-7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(2 \\times7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 11=\\)(___)\\(\\quad\\)"
+					{
+						"questionId":3145,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":"T",
+							"id":"3145",
+							"question":{
+								"text":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面",
+						"questionType":10403,
+						"subjectId":10001,
+						"subjectName":"语文"
 					},
-					"questionList":[],
-					"videoAnalysis":{
-						
+					{
+						"questionId":3146,
+						"questionInfo":{
+							"analysis":{
+								"text":"上面看，是上面2个正方形，左下角1个正方形，故选B。"
+							},
+							"answer":"B",
+							"id":"3146",
+							"options":[
+								{
+									"optionContent":{
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COAO3HEAAAEfCS0Zl4613.png\" style=\"vertical-align:middle;height:80%\"/>"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/03/rBIAAVgS-w6AKLviAAAEYr26WXI906.png\" style=\"vertical-align:middle;height:80%\"/>"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COANIRjAAAEN2c4zBs476.png\" style=\"vertical-align:middle;height:80%\"/>"
+									},
+									"optionID":"C"
+								}
+							],
+							"question":{
+								"text":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COANTbuAAAK_7JF6Fk051.png\"/>"
+							},
+							"type":1,
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。(图片)",
+						"questionType":10401,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3147,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":"A,D",
+							"id":"3147",
+							"options":[
+								{
+									"optionContent":{
+										"text":"单点测速仪测的是汽车的瞬时速率"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"单点测速仪测的是汽车的平均速率"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"区间测速测的是汽车的瞬时速率"
+									},
+									"optionID":"C"
+								},
+								{
+									"optionContent":{
+										"text":"区间测速测的是汽车的平均速率"
+									},
+									"optionID":"D"
+								}
+							],
+							"question":{
+								"text":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。"
+							},
+							"type":2,
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。",
+						"questionType":10402,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3148,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								{
+									"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAVWa1AAAFtUcASIc790.jpg\" style=\"vertical-align:middle;height:80%\"/> 【或者】 <img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAX5KoAAAGACZzVxc685.jpg\" style=\"vertical-align:middle;height:80%\"/>"
+								}
+							],
+							"id":"3148",
+							"question":{
+								"text":"与<img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAGpxGAAAF6X6j-fo907.jpg\" style=\"vertical-align:middle;height:80%\"/>相等的分母小于10是(___)"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"与(图片)相等的分母小于10是(___)",
+						"questionType":10404,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3149,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":{
+								"text":"①协同运输中的离子梯度动力；②ATP驱动的泵通过水解ATP获得能量；③光驱动的泵利用光能运输物质，见于细菌。"
+							},
+							"id":"3149",
+							"question":{
+								"text":"主动运输的能量来源有哪些途径？"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"主动运输的能量来源有哪些途径？",
+						"questionType":10405,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3150,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"B",
+								"C",
+								"D",
+								"A",
+								"B",
+								"C",
+								"B",
+								"A",
+								"C",
+								"D"
+							],
+							"id":"3150",
+							"optionMap":{
+								"3":[
+									{
+										"optionContent":{
+											"text":"picture-books"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Stories"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Clothes"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Videos"
+										},
+										"optionID":"D"
+									}
+								],
+								"2":[
+									{
+										"optionContent":{
+											"text":"Since"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Before"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"When"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Until"
+										},
+										"optionID":"D"
+									}
+								],
+								"10":[
+									{
+										"optionContent":{
+											"text":"laughed at"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"found out"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"got back"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"gave up"
+										},
+										"optionID":"D"
+									}
+								],
+								"1":[
+									{
+										"optionContent":{
+											"text":"found"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"helped"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"saw"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Made"
+										},
+										"optionID":"D"
+									}
+								],
+								"7":[
+									{
+										"optionContent":{
+											"text":"That"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Why"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Where"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"How"
+										},
+										"optionID":"D"
+									}
+								],
+								"6":[
+									{
+										"optionContent":{
+											"text":"Careful"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Busy"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Long"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Lucky"
+										},
+										"optionID":"D"
+									}
+								],
+								"5":[
+									{
+										"optionContent":{
+											"text":"All"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Both"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Either"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Neither"
+										},
+										"optionID":"D"
+									}
+								],
+								"4":[
+									{
+										"optionContent":{
+											"text":"Often"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Almost"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Nearly"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Never"
+										},
+										"optionID":"D"
+									}
+								],
+								"9":[
+									{
+										"optionContent":{
+											"text":"Sometime"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"some times"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"some time"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Sometimes"
+										},
+										"optionID":"D"
+									}
+								],
+								"8":[
+									{
+										"optionContent":{
+											"text":"To"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"by"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"from"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"With"
+										},
+										"optionID":"D"
+									}
+								]
+							},
+							"question":{
+								"text":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.<br/>When they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.<br/>They (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.<br/>Tom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \""
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.\nWhen they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.\nThey (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.\nTom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \"",
+						"questionType":10406,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3151,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"F",
+								"C",
+								"E",
+								"B",
+								"A"
+							],
+							"id":"3151",
+							"options":[
+								{
+									"optionContent":{
+										"text":"Get involved in student activities"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"Your voice is actually super important"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"There is a significant increase of opportunities"
+									},
+									"optionID":"C"
+								},
+								{
+									"optionContent":{
+										"text":"Stay in active communication with your friends"
+									},
+									"optionID":"D"
+								},
+								{
+									"optionContent":{
+										"text":"Get smart about the people who you spend your time with"
+									},
+									"optionID":"E"
+								},
+								{
+									"optionContent":{
+										"text":"Your major does not matter as much in your first of college"
+									},
+									"optionID":"F"
+								}
+							],
+							"question":{
+								"text":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:<br/>(__1__)<br/>Nobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.<br/>(__2__)<br/>In college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.<br/>(__3__)<br/>College is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.<br/>(__4__)<br/>As a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.<br/>(__5__)<br/>At my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization."
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:\n(__1__)\nNobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.\n(__2__)\nIn college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.\n(__3__)\nCollege is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.\n(__4__)\nAs a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.\n(__5__)\nAt my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization.",
+						"questionType":10407,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3152,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":{
+								"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/0D/rBIAAViT5ImAEqh5AADRKImxYE4654.png\" style=\"vertical-align:middle;height:80%\"/>"
+							},
+							"drawingImages":{
+								"text":"${#6|8502#}$"
+							},
+							"id":"3152",
+							"question":{
+								"text":"用笔画线代替导线将图中实物连接完整。要求：<br/>1.​&nbsp;电压表测量灯泡两端的电压。<br/>2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大<br/>3.​&nbsp;导线不能交叉<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://112.74.167.122:8090/group1/M00/00/0D/rBIAAViT5ImAP3eIAACpHkOEtcU729.png\"/>"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"用笔画线代替导线将图中实物连接完整。要求：\n1.​&nbsp;电压表测量灯泡两端的电压。\n2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大\n3.​&nbsp;导线不能交叉",
+						"questionType":10408,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3153,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"C",
+								"D",
+								"C",
+								"B",
+								"D"
+							],
+							"id":"3153",
+							"question":{
+								"text":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.<br/>　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’."
+							},
+							"subQuestions":[
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"believes both of the stories\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"doesn’t believe a word of the stories\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"is not sure whether the stories are true\n"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"is telling the stories just for fun"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"The author\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"couldn’t draw up any documents at all\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"didn’t like to read important papers by himself\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"often had his assistants sign documents for him\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"wasn’t good at reading，writing or spelling"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the passage，President Jackson\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"was approved of by President Jackson\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"was the title of some Official documents\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"was first used by President Jackson\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"was an old way to spell ‘all correct’"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the first story, the term ‘OK’\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"was the short way to say 'old Kinderhook Club’\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"meant the place where President Van Buren was born\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"was the name of Van Buren’s club\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"was used to call Van Buren’s supporters in the election"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the second story，the term ‘OK’\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"by Van Buren\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"in a presidential election\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"to organize the Old Kinderhook Club\n"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"by the members of the ‘Old Kinderhook Club’"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the second story. the term ‘OK’ was first used\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								}
+							],
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.\n　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’.",
+						"questionType":10409,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3154,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"21",
+								"28",
+								"45",
+								"81",
+								"8",
+								"16",
+								"32",
+								"3",
+								"333",
+								"1.5",
+								"10",
+								"15",
+								"42",
+								"1888",
+								"100",
+								"11",
+								"18",
+								"36",
+								"14",
+								"55"
+							],
+							"id":"3154",
+							"question":{
+								"text":"\\(3 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(9 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(64 \\div 8=\\)(___)\\(\\quad\\)<br/>\\(32 \\div2 =\\)(___)\\(\\quad\\)<br/>\\(128\\div4 =\\)(___)\\(\\quad\\)<br/>\\(9\\div =3\\)(___)\\(\\quad\\)<br/>\\(999\\div =3\\)(___)\\(\\quad\\)<br/>\\(3\\div2 =\\)(___)\\(\\quad\\)<br/>\\(3+7=\\)(___)\\(\\quad\\)<br/>\\(12+3=\\)(___)\\(\\quad\\)<br/>\\(19+23=\\)(___)\\(\\quad\\)<br/>\\(1000+888=\\)(___)\\(\\quad\\)<br/>\\(99+1=\\)(___)\\(\\quad\\)<br/>\\(88-77=\\)(___)\\(\\quad\\)<br/>\\(25-7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(2 \\times7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 11=\\)(___)\\(\\quad\\)"
+							},
+							"questionList":[],
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"\\(3 \\times 7=\\)(___)\\(\\quad\\)\n\\(4 \\times 7=\\)(___)\\(\\quad\\)\n\\(5 \\times 9=\\)(___)\\(\\quad\\)\n\\(9 \\times 9=\\)(___)\\(\\quad\\)\n\\(64 \\div 8=\\)(___)\\(\\quad\\)\n\\(32 \\div2 =\\)(___)\\(\\quad\\)\n\\(128\\div4 =\\)(___)\\(\\quad\\)\n\\(9\\div =3\\)(___)\\(\\quad\\)\n\\(999\\div =3\\)(___)\\(\\quad\\)\n\\(3\\div2 =\\)(___)\\(\\quad\\)\n\\(3+7=\\)(___)\\(\\quad\\)\n\\(12+3=\\)(___)\\(\\quad\\)\n\\(19+23=\\)(___)\\(\\quad\\)\n\\(1000+888=\\)(___)\\(\\quad\\)\n\\(99+1=\\)(___)\\(\\quad\\)\n\\(88-77=\\)(___)\\(\\quad\\)\n\\(25-7=\\)(___)\\(\\quad\\)\n\\(4 \\times 9=\\)(___)\\(\\quad\\)\n\\(2 \\times7=\\)(___)\\(\\quad\\)\n\\(5 \\times 11=\\)(___)\\(\\quad\\)",
+						"questionType":10410,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3155,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":"B",
+							"id":"3155",
+							"options":[
+								{
+									"optionContent":{
+										"text":"丁香花纤小文弱，清香幽雅。古代诗人以此立意，写出不少古今传颂的佳作，丁香成了古代诗词中人们<br/><span class=\"mark\">耳濡目染</span>的意象之一。"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"鲁迅对于请愿的事，一向就<br/><span class=\"mark\">不以为然</span>。他认为在三&middot;一八惨案中遇难的爱国群众，不过供无恶意的闲人以饭后的谈资，或者给有恶意的闲人作“留言”的种子，此外神的意义很寥寥。"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"入夜，月色溶溶，水天相接，我们或坐在树下<br/><span class=\"mark\">谈笑自若</span>，或坐在船上扣弦高歌，或立于小石桥上对月凝思。"
+									},
+									"optionID":"C"
+								},
+								{
+									"optionContent":{
+										"text":"1926年3月18日，北京人名为了反对帝国主义侵犯我国主权，在天安门前集会抗议，会后到执政府前请愿。段祺瑞竟命令卫兵向请愿群众开枪，打死打伤二百余人，制造了<br/><span class=\"mark\">耸人听闻</span>的三&middot;一八惨案。"
+									},
+									"optionID":"D"
+								}
+							],
+							"question":{
+								"text":"下列各句中，加点的成语使用正确的一项是"
+							},
+							"type":1,
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"下列各句中，加点的成语使用正确的一项是",
+						"questionType":10401,
+						"subjectId":10001,
+						"subjectName":"语文"
 					}
-				},
-				"questionTitle":"\\(3 \\times 7=\\)(___)\\(\\quad\\)\n\\(4 \\times 7=\\)(___)\\(\\quad\\)\n\\(5 \\times 9=\\)(___)\\(\\quad\\)\n\\(9 \\times 9=\\)(___)\\(\\quad\\)\n\\(64 \\div 8=\\)(___)\\(\\quad\\)\n\\(32 \\div2 =\\)(___)\\(\\quad\\)\n\\(128\\div4 =\\)(___)\\(\\quad\\)\n\\(9\\div =3\\)(___)\\(\\quad\\)\n\\(999\\div =3\\)(___)\\(\\quad\\)\n\\(3\\div2 =\\)(___)\\(\\quad\\)\n\\(3+7=\\)(___)\\(\\quad\\)\n\\(12+3=\\)(___)\\(\\quad\\)\n\\(19+23=\\)(___)\\(\\quad\\)\n\\(1000+888=\\)(___)\\(\\quad\\)\n\\(99+1=\\)(___)\\(\\quad\\)\n\\(88-77=\\)(___)\\(\\quad\\)\n\\(25-7=\\)(___)\\(\\quad\\)\n\\(4 \\times 9=\\)(___)\\(\\quad\\)\n\\(2 \\times7=\\)(___)\\(\\quad\\)\n\\(5 \\times 11=\\)(___)\\(\\quad\\)",
-				"questionType":10410,
-				"subjectId":10001,
-				"subjectName":"语文"
+				]
 			},
 			{
-				"questionId":2380,
-				"questionInfo":{
-					"analysis":{
-						"text":""
+				"pkgBookId":1,
+				"pkgChapterId":3,
+				"pkgChapterName":"章节三",
+				"questionList":[
+					{
+						"questionId":3156,
+						"questionInfo":{
+							"analysis":{
+								"text":"根据分式方程的定义即可判断 。<img src=\"http://112.74.167.122:8090/group1/M00/00/25/rBIAAVq8o3SAL1UaAAAKoG8ra0k714.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的一元一次方程。"
+							},
+							"answer":"F",
+							"id":"3156",
+							"question":{
+								"text":"判断：<img src=\"http://112.74.167.122:8090/group1/M00/00/25/rBIAAVq8o3SAZqQlAAANilINGw0020.jpg\" style=\"vertical-align:middle;height:80%\"/>是关于y的分式方程.&nbsp;"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"判断：(图片)是关于y的分式方程.&nbsp;",
+						"questionType":10403,
+						"subjectId":10001,
+						"subjectName":"语文"
 					},
-					"answer":"B",
-					"id":"2380",
-					"options":[
-						{
-							"optionContent":{
-								"text":"丁香花纤小文弱，清香幽雅。古代诗人以此立意，写出不少古今传颂的佳作，丁香成了古代诗词中人们<span class=\"mark\">耳濡目染</span>的意象之一。"
+					{
+						"questionId":3157,
+						"questionInfo":{
+							"analysis":{
+								"text":""
 							},
-							"optionID":"A"
+							"answer":"T",
+							"id":"3157",
+							"question":{
+								"text":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面"
+							},
+							"videoAnalysis":{
+								
+							}
 						},
-						{
-							"optionContent":{
-								"text":"鲁迅对于请愿的事，一向就<span class=\"mark\">不以为然</span>。他认为在三&middot;一八惨案中遇难的爱国群众，不过供无恶意的闲人以饭后的谈资，或者给有恶意的闲人作“留言”的种子，此外神的意义很寥寥。"
-							},
-							"optionID":"B"
-						},
-						{
-							"optionContent":{
-								"text":"入夜，月色溶溶，水天相接，我们或坐在树下<span class=\"mark\">谈笑自若</span>，或坐在船上扣弦高歌，或立于小石桥上对月凝思。"
-							},
-							"optionID":"C"
-						},
-						{
-							"optionContent":{
-								"text":"1926年3月18日，北京人名为了反对帝国主义侵犯我国主权，在天安门前集会抗议，会后到执政府前请愿。段祺瑞竟命令卫兵向请愿群众开枪，打死打伤二百余人，制造了<span class=\"mark\">耸人听闻</span>的三&middot;一八惨案。"
-							},
-							"optionID":"D"
-						}
-					],
-					"question":{
-						"text":"下列各句中，加点的成语使用正确的一项是"
+						"questionTitle":"虽然月亮一直绕着地球做公转，但是我们只能看到月亮的一面",
+						"questionType":10403,
+						"subjectId":10001,
+						"subjectName":"语文"
 					},
-					"type":1,
-					"videoAnalysis":{
-						
+					{
+						"questionId":3158,
+						"questionInfo":{
+							"analysis":{
+								"text":"上面看，是上面2个正方形，左下角1个正方形，故选B。"
+							},
+							"answer":"B",
+							"id":"3158",
+							"options":[
+								{
+									"optionContent":{
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COAO3HEAAAEfCS0Zl4613.png\" style=\"vertical-align:middle;height:80%\"/>"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/03/rBIAAVgS-w6AKLviAAAEYr26WXI906.png\" style=\"vertical-align:middle;height:80%\"/>"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COANIRjAAAEN2c4zBs476.png\" style=\"vertical-align:middle;height:80%\"/>"
+									},
+									"optionID":"C"
+								}
+							],
+							"question":{
+								"text":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://112.74.167.122:8090/group1/M00/00/04/rBIAAVga7COANTbuAAAK_7JF6Fk051.png\"/>"
+							},
+							"type":1,
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"如图是由四个相同的小正方体组成的立体图形，它的俯视图为（ ）。(图片)",
+						"questionType":10401,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3159,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":"A,D",
+							"id":"3159",
+							"options":[
+								{
+									"optionContent":{
+										"text":"单点测速仪测的是汽车的瞬时速率"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"单点测速仪测的是汽车的平均速率"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"区间测速测的是汽车的瞬时速率"
+									},
+									"optionID":"C"
+								},
+								{
+									"optionContent":{
+										"text":"区间测速测的是汽车的平均速率"
+									},
+									"optionID":"D"
+								}
+							],
+							"question":{
+								"text":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。"
+							},
+							"type":2,
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"以往公路上用单点测速仪测车速，但个别司机由于熟知测速点的位置，在通过测速点前采取刹车降低车速来逃避处罚，却很容易造成追尾事故，所以有些地方已开始采用区间测速，下列说法正确的是 ( ) 。",
+						"questionType":10402,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3160,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								{
+									"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAVWa1AAAFtUcASIc790.jpg\" style=\"vertical-align:middle;height:80%\"/> 【或者】 <img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAX5KoAAAGACZzVxc685.jpg\" style=\"vertical-align:middle;height:80%\"/>"
+								}
+							],
+							"id":"3160",
+							"question":{
+								"text":"与<img src=\"http://112.74.167.122:8090/group1/M00/00/1D/rBIAAVnoaUOAGpxGAAAF6X6j-fo907.jpg\" style=\"vertical-align:middle;height:80%\"/>相等的分母小于10是(___)"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"与(图片)相等的分母小于10是(___)",
+						"questionType":10404,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3161,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":{
+								"text":"①协同运输中的离子梯度动力；②ATP驱动的泵通过水解ATP获得能量；③光驱动的泵利用光能运输物质，见于细菌。"
+							},
+							"id":"3161",
+							"question":{
+								"text":"主动运输的能量来源有哪些途径？"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"主动运输的能量来源有哪些途径？",
+						"questionType":10405,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3162,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"B",
+								"C",
+								"D",
+								"A",
+								"B",
+								"C",
+								"B",
+								"A",
+								"C",
+								"D"
+							],
+							"id":"3162",
+							"optionMap":{
+								"3":[
+									{
+										"optionContent":{
+											"text":"picture-books"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Stories"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Clothes"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Videos"
+										},
+										"optionID":"D"
+									}
+								],
+								"2":[
+									{
+										"optionContent":{
+											"text":"Since"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Before"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"When"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Until"
+										},
+										"optionID":"D"
+									}
+								],
+								"10":[
+									{
+										"optionContent":{
+											"text":"laughed at"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"found out"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"got back"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"gave up"
+										},
+										"optionID":"D"
+									}
+								],
+								"1":[
+									{
+										"optionContent":{
+											"text":"found"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"helped"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"saw"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Made"
+										},
+										"optionID":"D"
+									}
+								],
+								"7":[
+									{
+										"optionContent":{
+											"text":"That"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Why"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Where"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"How"
+										},
+										"optionID":"D"
+									}
+								],
+								"6":[
+									{
+										"optionContent":{
+											"text":"Careful"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Busy"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Long"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Lucky"
+										},
+										"optionID":"D"
+									}
+								],
+								"5":[
+									{
+										"optionContent":{
+											"text":"All"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Both"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Either"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Neither"
+										},
+										"optionID":"D"
+									}
+								],
+								"4":[
+									{
+										"optionContent":{
+											"text":"Often"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"Almost"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"Nearly"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Never"
+										},
+										"optionID":"D"
+									}
+								],
+								"9":[
+									{
+										"optionContent":{
+											"text":"Sometime"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"some times"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"some time"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"Sometimes"
+										},
+										"optionID":"D"
+									}
+								],
+								"8":[
+									{
+										"optionContent":{
+											"text":"To"
+										},
+										"optionID":"A"
+									},
+									{
+										"optionContent":{
+											"text":"by"
+										},
+										"optionID":"B"
+									},
+									{
+										"optionContent":{
+											"text":"from"
+										},
+										"optionID":"C"
+									},
+									{
+										"optionContent":{
+											"text":"With"
+										},
+										"optionID":"D"
+									}
+								]
+							},
+							"question":{
+								"text":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.<br/>When they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.<br/>They (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.<br/>Tom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \""
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"Robert was walking home from school one day. A boy in front of him fell over and dropped all of his things. Robert stopped and (__1__) the boy pick them up. They were going the same way, so he helped to carry some of his things. (__2__)they walked, Robert learned that the boy's name was Tom.\nWhen they arrived at Tom's home, Robert was invited in for a coke and they watched some (__3__). That afternoon passed happily with a few laughs and some small talks. When it was getting dark, Robert went home.\nThey (__4__)saw each other at school, had lunch together once or twice a week, and then they(__5__)finished junior middle school. They entered the same high school. They sometimes saw and talked with each other over the years. Just three weeks before they finished high school, Tom had a (__6__) talk with Robert.\nTom asked Robert if he still remembered the day when they first met. \"Do you know (__7__) I was carrying so many things home that day?\" asked Tom.\" You see, I cleared my locker(锁柜.) because I didn't want to leave anything (__8__) anyone else. I had put away some of my mother's sleeping pills and I was going home to kill myself. But after we spent (__9__)together talking and laughing, I (__10__)my plan. So you see, Robert, when you picked up those things that day, you did a lot more. You saved my life. \"",
+						"questionType":10406,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3163,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"F",
+								"C",
+								"E",
+								"B",
+								"A"
+							],
+							"id":"3163",
+							"options":[
+								{
+									"optionContent":{
+										"text":"Get involved in student activities"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"Your voice is actually super important"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"There is a significant increase of opportunities"
+									},
+									"optionID":"C"
+								},
+								{
+									"optionContent":{
+										"text":"Stay in active communication with your friends"
+									},
+									"optionID":"D"
+								},
+								{
+									"optionContent":{
+										"text":"Get smart about the people who you spend your time with"
+									},
+									"optionID":"E"
+								},
+								{
+									"optionContent":{
+										"text":"Your major does not matter as much in your first of college"
+									},
+									"optionID":"F"
+								}
+							],
+							"question":{
+								"text":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:<br/>(__1__)<br/>Nobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.<br/>(__2__)<br/>In college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.<br/>(__3__)<br/>College is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.<br/>(__4__)<br/>As a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.<br/>(__5__)<br/>At my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization."
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"Five Things Nobody Told Me about College As I type this , I am in my university dorm room. A year ago, when I was awaiting to hear the results of my college applications, I often went to websites for some type of insider look on what college would be like. However, there’s only so much that prep books, websites, and older friends can teach. Here are the top 5things nobody told me about college:\n(__1__)\nNobody entering a university knows exactly what they want to study. If they tell you otherwise, they’re lying and will probably change what they want to purse within the first quarter of attendance . During my first quarter at University of California, Riverside (UCR),I thought that I wanted to study Political Science with its focus on International Affairs, so that’s what I applied for. However, once I worked with statewide and local government, I realized that a better fit for me would be Public Policy, and now I am in the process of changing my area.\n(__2__)\nIn college, there are so many good chances for you to meet your expectations. However, there is a very important difference between wanting to do something and applying for something. In order for you to take advantage of the conferences, research, internships , and fellowships that your university offers, apply! Step into your academic advisor’s office, introduce yourself, and begin making the valuable connections that are necessary to help during the rest of your college career. Great things happen when you step out of your comfort zone, and you would be surprised on how many chances exist if you just ask.\n(__3__)\nCollege is where you meet your birdesmaids, neighbors, and potential bosses. The relationships you develop now will probably be linked to the ones you value later, so he wise about the people who you invest yourself in . You are only one person, and you do not have time to waste on people who would rather cause drama or mess up with your purpose. Surround yourself with uplifting individuals who challenge you to be better while loving you for who you are, and be patient to the people who are the complete opposite of that description.\n(__4__)\nAs a first-year, I was afraid to make any noise towards campus issues that I noticed. It was not until I became involved in student government that I gained the confidence to handle projects that I created with the help of ASUCR Office of the President. During my first quarter, I spoke directly to the Chancellor, asking him for support towards my initiavives, met with the Vive Chancellors, and coorerated with my teaching assistances to begin my undergraduate research protect. Nothing good will happen when you are silent.\n(__5__)\nAt my high school,there were about only four active club and organizations that students could be a part of.Imagine my surprise when I stepped foot onto UCR’s capus,where over 400 organizations exist,ranging from political organizations to karate club.You are not paying all or your tuition(学费)to merely go to class,study,pass tests and graduate.Make something worthy out of your experience.Create that you will want to tell your grandchildren one day.It all begins here,by signing up to join an organization.",
+						"questionType":10407,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3164,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":{
+								"text":"<img src=\"http://112.74.167.122:8090/group1/M00/00/0D/rBIAAViT5ImAEqh5AADRKImxYE4654.png\" style=\"vertical-align:middle;height:80%\"/>"
+							},
+							"drawingImages":{
+								"text":"${#6|8513#}$"
+							},
+							"id":"3164",
+							"question":{
+								"text":"用笔画线代替导线将图中实物连接完整。要求：<br/>1.​&nbsp;电压表测量灯泡两端的电压。<br/>2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大<br/>3.​&nbsp;导线不能交叉<img class=\"question_img_icon\" alt=\"图片\" data-src=\"http://112.74.167.122:8090/group1/M00/00/0D/rBIAAViT5ImAP3eIAACpHkOEtcU729.png\"/>"
+							},
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"用笔画线代替导线将图中实物连接完整。要求：\n1.​&nbsp;电压表测量灯泡两端的电压。\n2.​&nbsp;滑动触片向右移动时，通过灯泡电流变大\n3.​&nbsp;导线不能交叉",
+						"questionType":10408,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3165,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"C",
+								"D",
+								"C",
+								"B",
+								"D"
+							],
+							"id":"3165",
+							"question":{
+								"text":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.<br/>　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’."
+							},
+							"subQuestions":[
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"believes both of the stories\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"doesn’t believe a word of the stories\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"is not sure whether the stories are true\n"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"is telling the stories just for fun"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"The author\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"couldn’t draw up any documents at all\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"didn’t like to read important papers by himself\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"often had his assistants sign documents for him\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"wasn’t good at reading，writing or spelling"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the passage，President Jackson\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"was approved of by President Jackson\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"was the title of some Official documents\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"was first used by President Jackson\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"was an old way to spell ‘all correct’"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the first story, the term ‘OK’\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"was the short way to say 'old Kinderhook Club’\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"meant the place where President Van Buren was born\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"was the name of Van Buren’s club\n　　"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"was used to call Van Buren’s supporters in the election"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the second story，the term ‘OK’\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								},
+								{
+									"options":[
+										{
+											"optionContent":{
+												"text":"by Van Buren\n　　"
+											},
+											"optionID":"A"
+										},
+										{
+											"optionContent":{
+												"text":"in a presidential election\n　　"
+											},
+											"optionID":"B"
+										},
+										{
+											"optionContent":{
+												"text":"to organize the Old Kinderhook Club\n"
+											},
+											"optionID":"C"
+										},
+										{
+											"optionContent":{
+												"text":"by the members of the ‘Old Kinderhook Club’"
+											},
+											"optionID":"D"
+										}
+									],
+									"question":{
+										"text":"According to the second story. the term ‘OK’ was first used\n　　"
+									},
+									"type":0,
+									"videoAnalysis":{
+										
+									}
+								}
+							],
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"There are stories about two U.S. presidents，Andrew Jackson and Martin Van Buren，which attempt to explain the American English term OK. We don’t know if either story is true，but they are both interesting. The first explanation is based on the fact that President Jackson had very little education. In fact，he had difficulty reading and writing. When important papers came to Jackson，he tried to read them and then had his assistants explain what they said. If he approved of a paper. he would write ‘all correct’ on it. The problem was that he didn’t know how to spell. So what he really wrote was ‘ol korekt’ .After a while，he shortened that term to “OK”.\n　　The second explanation is based on the place where President Van Buren was born，Kinderhook，New York. Van Bnren’s friends organized a club to help him become President They caned the club the Old Kinderhook Club，and anyone who supported Van Buren was called ‘OK’.",
+						"questionType":10409,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3166,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":[
+								"21",
+								"28",
+								"45",
+								"81",
+								"8",
+								"16",
+								"32",
+								"3",
+								"333",
+								"1.5",
+								"10",
+								"15",
+								"42",
+								"1888",
+								"100",
+								"11",
+								"18",
+								"36",
+								"14",
+								"55"
+							],
+							"id":"3166",
+							"question":{
+								"text":"\\(3 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(9 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(64 \\div 8=\\)(___)\\(\\quad\\)<br/>\\(32 \\div2 =\\)(___)\\(\\quad\\)<br/>\\(128\\div4 =\\)(___)\\(\\quad\\)<br/>\\(9\\div =3\\)(___)\\(\\quad\\)<br/>\\(999\\div =3\\)(___)\\(\\quad\\)<br/>\\(3\\div2 =\\)(___)\\(\\quad\\)<br/>\\(3+7=\\)(___)\\(\\quad\\)<br/>\\(12+3=\\)(___)\\(\\quad\\)<br/>\\(19+23=\\)(___)\\(\\quad\\)<br/>\\(1000+888=\\)(___)\\(\\quad\\)<br/>\\(99+1=\\)(___)\\(\\quad\\)<br/>\\(88-77=\\)(___)\\(\\quad\\)<br/>\\(25-7=\\)(___)\\(\\quad\\)<br/>\\(4 \\times 9=\\)(___)\\(\\quad\\)<br/>\\(2 \\times7=\\)(___)\\(\\quad\\)<br/>\\(5 \\times 11=\\)(___)\\(\\quad\\)"
+							},
+							"questionList":[],
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"\\(3 \\times 7=\\)(___)\\(\\quad\\)\n\\(4 \\times 7=\\)(___)\\(\\quad\\)\n\\(5 \\times 9=\\)(___)\\(\\quad\\)\n\\(9 \\times 9=\\)(___)\\(\\quad\\)\n\\(64 \\div 8=\\)(___)\\(\\quad\\)\n\\(32 \\div2 =\\)(___)\\(\\quad\\)\n\\(128\\div4 =\\)(___)\\(\\quad\\)\n\\(9\\div =3\\)(___)\\(\\quad\\)\n\\(999\\div =3\\)(___)\\(\\quad\\)\n\\(3\\div2 =\\)(___)\\(\\quad\\)\n\\(3+7=\\)(___)\\(\\quad\\)\n\\(12+3=\\)(___)\\(\\quad\\)\n\\(19+23=\\)(___)\\(\\quad\\)\n\\(1000+888=\\)(___)\\(\\quad\\)\n\\(99+1=\\)(___)\\(\\quad\\)\n\\(88-77=\\)(___)\\(\\quad\\)\n\\(25-7=\\)(___)\\(\\quad\\)\n\\(4 \\times 9=\\)(___)\\(\\quad\\)\n\\(2 \\times7=\\)(___)\\(\\quad\\)\n\\(5 \\times 11=\\)(___)\\(\\quad\\)",
+						"questionType":10410,
+						"subjectId":10001,
+						"subjectName":"语文"
+					},
+					{
+						"questionId":3167,
+						"questionInfo":{
+							"analysis":{
+								"text":""
+							},
+							"answer":"B",
+							"id":"3167",
+							"options":[
+								{
+									"optionContent":{
+										"text":"丁香花纤小文弱，清香幽雅。古代诗人以此立意，写出不少古今传颂的佳作，丁香成了古代诗词中人们<br/><span class=\"mark\">耳濡目染</span>的意象之一。"
+									},
+									"optionID":"A"
+								},
+								{
+									"optionContent":{
+										"text":"鲁迅对于请愿的事，一向就<br/><span class=\"mark\">不以为然</span>。他认为在三&middot;一八惨案中遇难的爱国群众，不过供无恶意的闲人以饭后的谈资，或者给有恶意的闲人作“留言”的种子，此外神的意义很寥寥。"
+									},
+									"optionID":"B"
+								},
+								{
+									"optionContent":{
+										"text":"入夜，月色溶溶，水天相接，我们或坐在树下<br/><span class=\"mark\">谈笑自若</span>，或坐在船上扣弦高歌，或立于小石桥上对月凝思。"
+									},
+									"optionID":"C"
+								},
+								{
+									"optionContent":{
+										"text":"1926年3月18日，北京人名为了反对帝国主义侵犯我国主权，在天安门前集会抗议，会后到执政府前请愿。段祺瑞竟命令卫兵向请愿群众开枪，打死打伤二百余人，制造了<br/><span class=\"mark\">耸人听闻</span>的三&middot;一八惨案。"
+									},
+									"optionID":"D"
+								}
+							],
+							"question":{
+								"text":"下列各句中，加点的成语使用正确的一项是"
+							},
+							"type":1,
+							"videoAnalysis":{
+								
+							}
+						},
+						"questionTitle":"下列各句中，加点的成语使用正确的一项是",
+						"questionType":10401,
+						"subjectId":10001,
+						"subjectName":"语文"
 					}
-				},
-				"questionTitle":"下列各句中，加点的成语使用正确的一项是",
-				"questionType":10401,
-				"subjectId":10002,
-				"subjectName":"数学"
+				]
 			}
 		],
-		"subject":"数学"
+		"grade":"一年级",
+		"intro":"快乐练习教辅",
+		"name":"快乐练习",
+		"pkgBookId":1,
+		"publishing":"人教版",
+		"subject":"语文"
 	},
-	"contentType":1,
-	"createrId":24,
-	"createrName":"张丹",
-	"createrType":1,
-	"goodsId":289,
-	"intro":"张丹的教辅03简介",
-	"name":"张丹的教辅03",
-	"oerResourceId":4951,
-	"previewResourceId":4872,
-	"price":20,
+	"contentType":3,
+	"createrId":0,
+	"createrType":0,
+	"goodsId":304,
+	"intro":"快乐练习教辅",
+	"name":"快乐练习",
+	"previewResourceId":8481,
+	"price":100,
 	"resources":{
-		"4872":{
-			"localPath":"META-INFO/RESOURCES/4872.mp4",
-			"md5sum":"7c5ceb22b378a78b9e46f38cf13fbeac",
-			"metaID":"104723",
-			"mimetype":"application/octet-stream",
-			"postfix":"mp4",
-			"resourceID":"4872",
-			"resourceName":"教辅预览图",
-			"resourceType":7,
-			"size":14326
-		},
-		"4867":{
-			"localPath":"META-INFO/RESOURCES/4867.png",
+		"8491":{
+			"localPath":"META-INFO/RESOURCES/8491.png",
 			"md5sum":"12581e3a9f4365a3139ca193fc9e06db",
-			"metaID":"104041",
+			"metaID":"104640",
 			"mimetype":"image/png",
 			"postfix":"png",
-			"resourceID":"4867",
+			"resourceID":"8491",
+			"resourceName":"题目插图",
+			"resourceType":6,
+			"size":42
+		},
+		"8502":{
+			"localPath":"META-INFO/RESOURCES/8502.png",
+			"md5sum":"12581e3a9f4365a3139ca193fc9e06db",
+			"metaID":"104651",
+			"mimetype":"image/png",
+			"postfix":"png",
+			"resourceID":"8502",
+			"resourceName":"题目插图",
+			"resourceType":6,
+			"size":42
+		},
+		"8481":{
+			"localPath":"META-INFO/RESOURCES/8481.jpg",
+			"md5sum":"e3631ebde2025f5a4dea080f1045ebcf",
+			"metaID":"104630",
+			"mimetype":"application/octet-stream",
+			"postfix":"jpg",
+			"resourceID":"8481",
+			"resourceName":"教辅封面：快乐练习",
+			"resourceType":6,
+			"size":166
+		},
+		"8513":{
+			"localPath":"META-INFO/RESOURCES/8513.png",
+			"md5sum":"12581e3a9f4365a3139ca193fc9e06db",
+			"metaID":"104662",
+			"mimetype":"image/png",
+			"postfix":"png",
+			"resourceID":"8513",
 			"resourceName":"题目插图",
 			"resourceType":6,
 			"size":42

@@ -16,7 +16,15 @@ public class TeachingPkgBookInfo {
     private String grade;
     private Integer publishingId;
     private String publishing;
-    private List<TeachingPkgBookChapterInfo> chapterList;
+    private List<ChapterList> chapterList;
+
+    public List<ChapterList> getChapterList() {
+        return chapterList;
+    }
+
+    public void setChapterList(List<ChapterList> chapterList) {
+        this.chapterList = chapterList;
+    }
 
     public Integer getPkgBookId() {
         return pkgBookId;
@@ -98,11 +106,5 @@ public class TeachingPkgBookInfo {
         this.publishing = publishing;
     }
 
-    public List<TeachingPkgBookChapterInfo> getChapterList() {
-        return chapterList;
-    }
 
-    public void setChapterList(List<TeachingPkgBookChapterInfo> chapterList) {
-        this.chapterList = chapterList;
-    }
 }

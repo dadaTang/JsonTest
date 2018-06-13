@@ -94,8 +94,8 @@ public class Constants {
         public static final String TEACHING_PKG_INFO_TABLE = "teaching_pkg_info_table";
         /**资源信息(TeachingResourceInfo)*/
         public static final String TEACHING_RESOURCE_INFO_TABLE = "teaching_resource_info_table";
-        /**习题基础数据结构表(BaseQuestion) */
-        public static final String QUESTION_INFO_TABLE = "question_info_table";
+        /**习题基础数据结构表(QuestionList) */
+        public static final String QUESTION_LIST_TABLE = "question_list_table";
 
     }
 
