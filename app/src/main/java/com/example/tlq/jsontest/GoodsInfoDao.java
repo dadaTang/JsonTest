@@ -25,6 +25,8 @@ import java.util.Map;
 /**
  * Create By tlq
  * 2018-6-6
+ *
+ * 需要在下载后调用
  */
 public class GoodsInfoDao {
     public static final String TAG = "GoodsInfoDao";
