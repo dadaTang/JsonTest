@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
             //判断数据文件是否存在
 
             //将数据文件存放到指定目录
-            FileUtil.getInstance(MyApplication.getContext().getApplicationContext()).copyAssetsToSD("META-INFO", "stemEink/META-INFO");
+            FileUtil.getInstance(MyApplication.getContext().getApplicationContext()).copyAssetsToSD("META-INFO", "test/META-INFO");
         }else{
             Toast.makeText(getApplication(),"请插入SD卡！",Toast.LENGTH_SHORT).show();
         }
