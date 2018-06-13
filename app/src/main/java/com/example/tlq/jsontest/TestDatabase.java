@@ -5,13 +5,13 @@ import android.content.Context;
 /**
  * Created by Hell on 2017/9/11.
  */
-public class EInkDatabase {
-	private static final String TAG = "EInkDatabase";
-	private EInkDatabaseHelper eInkDatabaseHelper;
+public class TestDatabase {
+	private static final String TAG = "TestDatabase";
+	private TestDatabaseHelper testDatabaseHelper;
 	private static final Object mLock = new Object();
 	private static EInkDatabase mInstance;
 
-	public static EInkDatabase getInstance(Context context) {
+	public static TestDatabase getInstance(Context context) {
 		synchronized (mLock) {
 			if (mInstance == null) {
 				mInstance = new EInkDatabase(context.getApplicationContext());
@@ -20,8 +20,8 @@ public class EInkDatabase {
 		}
 	}
 
-    private EInkDatabase(Context context){
-		eInkDatabaseHelper = new EInkDatabaseHelper(context);
+    private TestDatabase(Context context){
+		testDatabaseHelper = new TestDatabaseHelper(context);
 	}
 
 //	/**
@@ -29,7 +29,7 @@ public class EInkDatabase {
 //	 * @param goodsInfo
 //	 */
 //	public synchronized void insertNoteInfo(GoodsInfo goodsInfo) {
-//		SQLiteDatabase db = eInkDatabaseHelper.getWritableDatabase();
+//		SQLiteDatabase db = testDatabaseHelper.getWritableDatabase();
 //		db.beginTransaction();//开启事务
 //		try{
 //			ContentValues values = new ContentValues();

@@ -1,0 +1,8 @@
+#复杂JSON文件解析
+
+解析框架使用GSON
+
+JSON是从网上下载,该test是将json文件放到assets中,通过点击导入到SD卡
+
+JSON包括list,map,等多种种类型,循环解析后并将其导入到对应的数据库
+
