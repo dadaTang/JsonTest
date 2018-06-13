@@ -10,27 +10,8 @@ import android.text.TextUtils;
 /**
  * Created by Hell on 2017/9/11.
  */
-public class EInkDatabaseHelper extends SQLiteOpenHelper {
-    private static final String TAG = "EInkDatabaseHelper";
-
-    /**
-     * 创建图片信息表
-     */
-    private String CREATE_NOTE_INFO_TABLE = String.format("create table if not exists %s ("
-            + "%s integer primary key autoincrement,"
-            + "%s text," + "%s text," + "%s text," + "%s text," + "%s text)",
-            Constants.DB.NOTE_INFO_TABLE,
-            "id", "noteId", "noteDate", "noteTime", "noteTitle", "noteImage");
-
-    private String CREATE_TEMP_ANSWER_INFO_TABLE = String.format("create table if not exists %s ("
-            + "%s integer primary key autoincrement," + "%s text," + "%s text," + "%s text," + "%s text)",
-            Constants.DB.TEMP_ANSWER_INFO_TABLE,
-            "id", "questionId", "packageId", "studentId", "answerInfo");
-
-    private String CREATE_TEMP_REQUEST_INFO_TABLE = String.format("create table if not exists %s ("
-            + "%s integer primary key autoincrement," + "%s text," + "%s text," + "%s text)",
-            Constants.DB.TEMP_REQUEST_INFO_TABLE, "id", "type", "requestAddress", "webAddress");
-
+public class TestDatabaseHelper extends SQLiteOpenHelper {
+    private static final String TAG = "TestDatabaseHelper";
 
     /** 创建商品信息结构表(GoodsInfo)*/
     private String CREATE_DOWNLOAD_GOODS_INFO_TABLE = String.format("create table if not exists %s ("
@@ -135,10 +116,6 @@ public class EInkDatabaseHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        db.execSQL(CREATE_NOTE_INFO_TABLE);
-        db.execSQL(CREATE_TEMP_ANSWER_INFO_TABLE);
-        db.execSQL(CREATE_TEMP_REQUEST_INFO_TABLE);
-
         db.execSQL(CREATE_DOWNLOAD_GOODS_INFO_TABLE);
         db.execSQL(CREATE_SOURCE_FILE_TABLE);
         db.execSQL(CREATE_TEACHING_PKG_BOOK_CHAPTER_INFO_TABLE);
